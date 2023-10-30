@@ -8,4 +8,4 @@ Airbnb listings in New York; and prepare a report with the next best steps that 
 
 ---
 
-Data Visaulization using Tableau, and basic Statistical Concepts (Measures of Central Tendency and Spread) have been used to analyse the data, gain meaningful insights, and provide starategic recommendations. Data Cleaning, Data Mining, Data Interpretation, Dashboarding, and Reporting have been implemented.   
+Data Visaulization using Tableau, and Summary Statistics have been used to analyse the data, gain meaningful insights, and provide starategic recommendations. Data Cleaning, Data Mining, Data Interpretation, Dashboarding, and Reporting have been implemented.   
